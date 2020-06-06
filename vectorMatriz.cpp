@@ -109,9 +109,13 @@ int main(){
     {
         vectorxmatriz(M2,M,resul,cols,rowsM);
     }
-    for (int i = 0; i < cols; i++){
+    
+    cout<<"\n";
+    for (int x = 0; x < cols; x++){
         cout<<resul[i]<<"\t";
     }
+    cout<<"\n";
+    cout<<"\n";
     return 0;
 }
 
