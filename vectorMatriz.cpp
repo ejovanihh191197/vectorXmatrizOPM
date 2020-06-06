@@ -112,7 +112,7 @@ int main(){
     
     cout<<"\n";
     for (int x = 0; x < cols; x++){
-        cout<<resul[i]<<"\t";
+        cout<<resul[x]<<"\t";
     }
     cout<<"\n";
     cout<<"\n";
